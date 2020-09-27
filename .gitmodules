@@ -1,0 +1,3 @@
+[submodule "salt/roots/formulas/android-studio-formula"]
+	path = salt/roots/formulas/android-studio-formula
+	url = git@github.com:extra2000/android-studio-formula.git

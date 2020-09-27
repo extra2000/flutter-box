@@ -1,0 +1,4 @@
+base:
+  '*':
+    - android-studio
+    - myapps
