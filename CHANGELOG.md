@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.4](https://github.com/extra2000/flutter-box/compare/v1.0.3...v1.0.4) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([e98f43b](https://github.com/extra2000/flutter-box/commit/e98f43b37878eade4b01631184011ed16c028e38))
+
+
+### Maintenance
+
+* **android-studio-formula:** Patch updates ([c1df7bf](https://github.com/extra2000/flutter-box/commit/c1df7bf48cf545b25259cd655767ca45c63c74cc))
+
 ### [1.0.3](https://github.com/extra2000/flutter-box/compare/v1.0.2...v1.0.3) (2020-10-01)
 
 
