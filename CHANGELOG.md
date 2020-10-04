@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.5](https://github.com/extra2000/flutter-box/compare/v1.0.4...v1.0.5) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([e555f88](https://github.com/extra2000/flutter-box/commit/e555f8851e649590b9a528aac513a554ad18de78))
+
+
+### Maintenance
+
+* **android-studio-formula:** Patch updates ([1ebf947](https://github.com/extra2000/flutter-box/commit/1ebf947933fb5a0cef777162febd69758c3e3492))
+
 ### [1.0.4](https://github.com/extra2000/flutter-box/compare/v1.0.3...v1.0.4) (2020-10-02)
 
 
